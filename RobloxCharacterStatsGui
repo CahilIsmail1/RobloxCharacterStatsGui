@@ -1,5 +1,4 @@
 
 ScreenGui = Instance.new("ScreenGui" , local SkillGui = Instance.new("Frame" , game.Players.LocalPlayer.PlayerGui))
-ScreenGui.Parent = 
 local SkillGui = Instance.new("Frame" , game.Players.LocalPlayer.PlayerGui) 
 SkillGui.Parent = ScreenGui
